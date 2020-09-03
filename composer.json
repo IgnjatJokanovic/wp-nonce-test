@@ -1,0 +1,19 @@
+{
+  "name": "igi/wp-nonce-test",
+  "description": "WP Nonce test",
+  "type": "library",
+  "authors": [
+    {
+      "name": "IgnjatJokanovic",
+      "email": "jokanovic.ignjat@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "~4.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ignjat\\": "src/"
+    }
+  }
+}
