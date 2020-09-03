@@ -15,6 +15,5 @@
     "psr-4": {
       "Ignjat\\": "src/"
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
