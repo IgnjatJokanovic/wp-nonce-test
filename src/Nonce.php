@@ -2,7 +2,7 @@
 
 namespace Ignjat;
 
-abstract class Nonce extends NonceAbstract
+class Nonce extends NonceAbstract
 {
 
   public function __construct($action, $name)
